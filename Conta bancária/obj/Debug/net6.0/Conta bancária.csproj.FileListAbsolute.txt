@@ -1,0 +1,15 @@
+C:\Users\rober\Desktop\Conta bancária\bin\Debug\net6.0\Conta bancária.exe
+C:\Users\rober\Desktop\Conta bancária\bin\Debug\net6.0\Conta bancária.deps.json
+C:\Users\rober\Desktop\Conta bancária\bin\Debug\net6.0\Conta bancária.runtimeconfig.json
+C:\Users\rober\Desktop\Conta bancária\bin\Debug\net6.0\Conta bancária.dll
+C:\Users\rober\Desktop\Conta bancária\bin\Debug\net6.0\Conta bancária.pdb
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.AssemblyInfo.cs
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.dll
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\refint\Conta bancária.dll
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.pdb
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\Conta bancária.genruntimeconfig.cache
+C:\Users\rober\Desktop\Conta bancária\obj\Debug\net6.0\ref\Conta bancária.dll
